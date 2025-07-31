@@ -1,0 +1,281 @@
+{
+  "site": {
+    "menu": [
+      {
+        "title": "Growing Supplies",
+        "path": "/collection/growing-supplies"
+      },
+      {
+        "title": "Seeds",
+        "path": "/collection/seeds"
+      },
+      {
+        "title": "How-to",
+        "path": "/how-to"
+      },
+      {
+        "title": "Merchandise",
+        "path": "/collection/merchandise"
+      },
+      {
+        "title": "Dealers",
+        "path": "/dealers"
+      },
+      {
+        "title": "About",
+        "path": "/about-us"
+      },
+      {
+        "title": "Journey",
+        "path": "/journey"
+      },
+      {
+        "title": "Contact Us",
+        "path": "/contact-us"
+      }
+    ],
+    "collection": [
+      {
+        "id": "gid://shopify/Collection/268065865794",
+        "title": "buds-concentrates-seeds"
+      },
+      {
+        "id": "gid://shopify/Collection/268065898562",
+        "title": "merchandise"
+      },
+      {
+        "id": "gid://shopify/Collection/268065931330",
+        "title": "growing-supplies"
+      },
+      {
+        "id" : "gid://shopify/Collection/268065865794",
+        "title": "seeds"
+      }
+    ],
+    "how-to": [
+      {
+        "id": "183782360",
+        "title": "Flowering"
+      },
+      {
+        "id": "183782471",
+        "title": "Tips for Maximum Harvest"
+      },
+      {
+        "id": "183782472",
+        "title": "Harvest, Drying & Curing"
+      }
+    ],
+    "podcast": [
+      {
+        "title" : "Ganjana Live Podcast at Suksan Space",
+        "createdOn": "20/09/23",
+        "excerpt": "Ganjana Live Podcast at Suksan Space",
+        "url": "https://www.youtube.com/watch?v=e0RlP6nFwiQ"
+      },
+      {
+        "title" : "T-REX Podcast EP 3: Grow Light, CO2, Growing Tips (special guest : Chewwie Grizz)",
+        "createdOn": "09/01/21",
+        "excerpt": "Special Guest : พี่หมา, พี่แมว จากทีม Chewwie Grizz",
+        "url": "https://soundcloud.com/t-rex420/podcast-ep-03-grow-light-co2-growing-tips-special-guest-chewwie-grizz"
+      },
+      {
+        "title" : "T-REX Podcast - EP 04 - Growers Talk!",
+        "createdOn": "09/09/20",
+        "excerpt": "T-REX Podcast - EP 04 - Growers Talk!",
+        "url": "https://soundcloud.com/t-rex420/t-rex-podcast-ep-04-growers-talk-1"
+      }
+    ],
+    "products": [
+      {
+        "id": "gid://shopify/Product/535774756930",
+        "title": "SS18 Bong Party x T-REX Rolling Tray (Reg)"
+      },
+      {
+        "id": "gid://shopify/Product/538238451778",
+        "title": "SS18 Sticker Pack"
+      },
+      {
+        "id": "gid://shopify/Product/1667630628930",
+        "title": "SS18 Blackdog Kush Tee (Reg)"
+      },
+      {
+        "id": "gid://shopify/Product/1667670704194",
+        "title": "SS18 Drop Seeds Not Bomb Tee (Tie Dye)"
+      },
+      {
+        "id": "gid://shopify/Product/1667673194562",
+        "title": "SS18 Drop Seeds Not Bomb Tee"
+      },
+      {
+        "id": "gid://shopify/Product/1667683319874",
+        "title": "SS18 Grand Daddy Purple Tee"
+      },
+      {
+        "id": "gid://shopify/Product/1667701768258",
+        "title": "SS18 Medical Farming"
+      },
+      {
+        "id": "gid://shopify/Product/1667703668802",
+        "title": "SS18 Grand Daddy Purple Tee (Tie Dye)"
+      },
+      {
+        "id": "gid://shopify/Product/1667787882562",
+        "title": "T-REX Super Mix"
+      },
+      {
+        "id": "gid://shopify/Product/1667811016770",
+        "title": "T-REX Mega Kelp"
+      },
+      {
+        "id": "gid://shopify/Product/1667819372610",
+        "title": "T-REX Bloom Booster"
+      },
+      {
+        "id": "gid://shopify/Product/1727379308610",
+        "title": "SS19 Ganja Tee"
+      },
+      {
+        "id": "gid://shopify/Product/1733522784322",
+        "title": "SS19 Ganja Snapback"
+      },
+      {
+        "id": "gid://shopify/Product/1744604823618",
+        "title": "White Dutch Clover"
+      },
+      {
+        "id": "gid://shopify/Product/1744606724162",
+        "title": "Alfalfa"
+      },
+      {
+        "id": "gid://shopify/Product/1767467450434",
+        "title": "African Nightcrawler"
+      },
+      {
+        "id": "gid://shopify/Product/4651925438530",
+        "title": "SS20 Classic Logo T-Shirt (Orange & Green)"
+      },
+      {
+        "id": "gid://shopify/Product/4651925700674",
+        "title": "SS20 Classic Logo T-Shirt (Orange & Purple)"
+      },
+      {
+        "id": "gid://shopify/Product/4651925864514",
+        "title": "SS20 Classic Logo T-Shirt (White & Pink)"
+      },
+      {
+        "id": "gid://shopify/Product/4651926159426",
+        "title": "SS20 \"Original Dino\" Logo T-Shirt (Orange)"
+      },
+      {
+        "id": "gid://shopify/Product/4651926683714",
+        "title": "SS20 \"Original Dino\" Logo T-Shirt (Black)"
+      },
+      {
+        "id": "gid://shopify/Product/4680090353730",
+        "title": "SS20 T-REX Rolling Tray F1"
+      },
+      {
+        "id": "gid://shopify/Product/6552259002434",
+        "title": "T-REX Grow"
+      },
+      {
+        "id": "gid://shopify/Product/6552259231810",
+        "title": "T-REX Bloom"
+      },
+      {
+        "id": "gid://shopify/Product/6552259723330",
+        "title": "T-REX Shield"
+      },
+      {
+        "id": "gid://shopify/Product/6572407029826",
+        "title": "Compost Tea Trio Set"
+      },
+      {
+        "id": "gid://shopify/Product/6705255546946",
+        "title": "T-REX Dino Serum"
+      },
+      {
+        "id": "gid://shopify/Product/6836237074498",
+        "title": "Gimme Ya Head"
+      },
+      {
+        "id": "gid://shopify/Product/6836239007810",
+        "title": "Trichome Monster Playmat"
+      },
+      {
+        "id": "gid://shopify/Product/6916544626754",
+        "title": "Obi Wan OG"
+      },
+      {
+        "id": "gid://shopify/Product/6916544659522",
+        "title": "Dreadnought OG"
+      },
+      {
+        "id": "gid://shopify/Product/6931361169474",
+        "title": "Robert's Mint"
+      },
+      {
+        "id": "gid://shopify/Product/6931360677954",
+        "title": "Samwise Rise F1"
+      },
+      {
+        "id": "gid://shopify/Product/6931361169474",
+        "title": "Robert's Mint F1"
+      },
+      {
+        "id": "gid://shopify/Product/6934521937986",
+        "title": "T-REX Lanyards"
+      },
+      {
+        "id": "gid://shopify/Product/6940830859330",
+        "title": "Robert's Mint 21"
+      },
+      {
+        "id": "gid://shopify/Product/6940830924866",
+        "title": "Robert's Mint 2"
+      },
+      {
+        "id": "gid://shopify/Product/6964176224322",
+        "title": "Robert's Mint 8"
+      },
+      {
+        "id": "gid://shopify/Product/6964238516290",
+        "title": "Samwise Rise 16"
+      },
+      {
+        "title": "ROBERT'S MINT",
+        "id": "gid://shopify/Product/6931361169474"
+      },
+      {
+        "title": "Samwise Rise",
+        "id": "gid://shopify/Product/6931360677954"
+      },
+      {
+        "title": "SS22 \"Gimme Ya Head\" overprint T-Shirt",
+        "id": "gid://shopify/Product/7520675364930"
+      },
+      {
+        "title": "Freeborn Seletion - Yesca OG x Lime 5",
+        "id": "gid://shopify/Product/7520871415874"
+      },
+      {
+        "title": "Bodhi Seeds - Spirit Hashplant",
+        "id": "gid://shopify/Product/7520872071234"
+      },
+      {
+        "title": "Bodhi Seeds - Royal Kush x 88G13HP",
+        "id": "gid://shopify/Product/7520872693826"
+      },
+      {
+        "title": "Bodhi Seeds - Face Off OG x 88G13HP",
+        "id": "gid://shopify/Product/7520872988738"
+      },
+      {
+        "title": "Bodhi Seeds - Imperial Majesty",
+        "id": "gid://shopify/Product/7520873087042"
+      }
+      
+    ]    
+  }
+}

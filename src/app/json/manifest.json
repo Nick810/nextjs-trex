@@ -1,0 +1,50 @@
+{
+  "short_name": "T-REX Thailand",
+  "name": "T-REX Thailand",
+  "icons": [
+    {
+      "src": "/images/icons-vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://www.trexthailand.org/en",
+  "background_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000",
+  "shortcuts": [
+    {
+      "name": "T-REX Thailand",
+      "short_name": "T-REX Thailand",
+      "description": "Finest quality, environmental friendly handcrafted products for natural farming and no-till with organic living soil..",
+      "url": "/today?source=pwa",
+      "icons": [{ "src": "/images/icons-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Finest quality, environmental friendly handcrafted products for natural farming and no-till with organic living soil..",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
