@@ -23,7 +23,7 @@ export default function Page() {
       year: "2022",
       events: [
         `Testing both crosses at "Undisclosed University" with Robert_Motorcycle and PowerPuff from Shovel.`,
-        `Sour Krunchz x Ghost Candy tagged as “S” and stardawg guava wookie X GHOST CANDY tagged as “M”`
+        `Sour Krunchz x Ghost Candy tagged as “S” and Stardawg Guava Wookie X Ghost Candy tagged as “M”`
       ],
     },
     {
