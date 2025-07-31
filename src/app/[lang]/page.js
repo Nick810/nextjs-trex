@@ -104,17 +104,14 @@ export default async function Home({ params: { lang } }) {
   return (
     <>
       <Hero props={ heroImage } lang={ lang } />
-      <div className='mb-8'></div>
+      <div className='mb-8 md:mb-16'></div>
       <Reviews props={ allReviews } />
-      <div className='mb-8'></div>
+      <div className='mb-mb-16 md:mb-32'></div>
       <NewArrivals props={ newArrivals.collection.products.nodes } lang={ lang } />
-      <div className='mb-8'></div>
-      {/* <Seeds props={ seeds.
-      collection.products.nodes } lang={ lang }/> */}
-      <div className='mb-8'></div>
+      <div className='mb-16 md:mb-32'></div>
       <Merchandise props={ merchandise.collection.products.nodes } lang={ lang } />
-      <div className='mb-8'></div>
-      <StarterPack />
+      <div className='mb-16 md:mb-32'></div>
+      {/* <StarterPack /> */}
       <div className='mb-8'></div>
       <GrowingSupplies props={ growSupplies.collection.products.nodes } lang={ lang } />
       <div className='mb-8'></div>
